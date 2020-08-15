@@ -1,0 +1,13 @@
+Copy Constructor:
+
+- Is used to create a copy of an object with the exact same properties.
+
+- Must satisfy all the rules of constructors.
+
+- Only one argument that is the const reference of the same type as that of the class. For eg: Cube::Cube(const & obj){}
+
+- Invoking Copy Constructors: 1.Passing an object as parameter(by value)
+							  2.Returning an object from a function(by value)
+							  3.Initializing a new object.
+
+- One thing to note here is that copy constructor is not the same as assignment operator. Assignment operator acts only to give the value of one variable to the other. Copy constructor is used to create an object and then copy the contents.
