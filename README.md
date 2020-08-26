@@ -1,2 +1,2 @@
 # DSA
-My Data Structures and Algorithms Repo.
+My Data Structures and Algorithms Repository.
